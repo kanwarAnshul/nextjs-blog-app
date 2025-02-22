@@ -1,0 +1,4 @@
+primarydark = "#2E073F"
+secondarydark = "#7A1CAC"
+primarylight = "#EBD3F8"
+secondarylight = "#AD49E1"
